@@ -94,3 +94,7 @@ switch (Language) {
   default:
     console.log(`great language too!!`);
 }
+
+countryPopulation > 33
+  ? console.log(`${countryName}'s population is above average`)
+  : console.log(`${countryName}'s population is below average`);
