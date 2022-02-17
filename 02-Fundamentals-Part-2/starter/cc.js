@@ -76,4 +76,33 @@ console.log(
 //Fundamental Part 2
 //CC -1
 
-const calcAverage = 
+/*
+const calcAverage = (a, b, c) => {
+  return (a + b + c) / 3;
+};
+
+let dolScore = calcAverage(44, 23, 71);
+let kolScore = calcAverage(65, 54, 49);
+
+console.log(dolScore);
+console.log(kolScore);
+
+function checkWinner(avgDolphins, avgKoalas) {
+  if (avgDolphins >= 2 * avgKoalas) {
+    console.log(`Dolphin Wins The Trophy ${avgDolphins} vs ${avgKoalas}`);
+  } else if (avgKoalas >= 2 * avgDolphins) {
+    console.log(`Koalas Wins The Trophy ${avgKoalas} vs ${avgDolphins}`);
+  } else {
+    console.log(`No Team Wins`);
+  }
+}
+
+checkWinner(dolScore, kolScore);
+
+dolScore = calcAverage(85, 54, 41);
+kolScore = calcAverage(23, 34, 27);
+console.log(dolScore);
+console.log(kolScore);
+
+checkWinner(dolScore, kolScore);
+*/
